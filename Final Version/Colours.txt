@@ -1,0 +1,5 @@
+Magic 0030FF
+Melee B3002F
+Ranged 00FF4D
+keris FFFA00
+special FF00C0
